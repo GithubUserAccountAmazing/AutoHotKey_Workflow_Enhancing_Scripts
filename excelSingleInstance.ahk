@@ -1,0 +1,1 @@
+#e::Run, "C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE" /x /e
